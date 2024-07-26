@@ -43,7 +43,7 @@ Cada disciplina possui um diretório próprio onde estarão disponíveis todos o
 
 ## Calendário
 
-Confira o calendário das disciplinas no arquivo anexo [Calendário Programador de Sistemas](link-para-o-calendario).
+Confira o calendário das disciplinas no arquivo anexo [Calendário Programador de Sistemas](https://github.com/KevinSGuimaraes/ProgramadorDeSistemas/blob/main/Calend%C3%A1rio%20Programador%20de%20Sistemas.pdf).
 
 ## Como Usar este Repositório
 
@@ -59,10 +59,3 @@ Confira o calendário das disciplinas no arquivo anexo [Calendário Programador 
 Para dúvidas ou mais informações, entre em contato com o instrutor:
 - **Nome do Instrutor**: Kevin Guimarães
 - **Email**: kevinguimaraes.trabalho@gmail.com
-
----
-
-© 2024 SENAI. Todos os direitos reservados.
-
-
-
