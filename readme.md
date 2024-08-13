@@ -46,7 +46,7 @@ Cada disciplina possui um diretório próprio onde estarão disponíveis todos o
 Confira o calendário das disciplinas no arquivo anexo [Calendário Programador de Sistemas](https://github.com/KevinSGuimaraes/ProgramadorDeSistemas/blob/main/Calend%C3%A1rio%20Programador%20de%20Sistemas.pdf).
 
 # Critérios e Procedimentos de Faltas
-![Aulas](imagens/HorasAula.png)
+![Aulas](Imagens/HorasAula.png)
 
 Resumo de Presenças e Faltas Permitidas
 
@@ -82,7 +82,7 @@ Gestão
     Máximo de faltas em dias: 1 dia
 	
 # Lista de Presença
-![Lista de Presença](imagens/lista_presenca.png)
+![Lista de Presença](Imagens/lista_presenca.png)
 
 ## Como Usar este Repositório
 
