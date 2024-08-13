@@ -45,6 +45,44 @@ Cada disciplina possui um diretório próprio onde estarão disponíveis todos o
 
 Confira o calendário das disciplinas no arquivo anexo [Calendário Programador de Sistemas](https://github.com/KevinSGuimaraes/ProgramadorDeSistemas/blob/main/Calend%C3%A1rio%20Programador%20de%20Sistemas.pdf).
 
+# Lista de Presença
+![Aulas](imagens/HorasAula.png)
+Resumo de Presenças e Faltas Permitidas
+
+Para garantir 75% de presença, o aluno pode ter no máximo as seguintes faltas:
+Lógica de Programação
+
+    Dias mínimos de presença: 12 dias
+    Máximo de faltas em aulas: 15 aulas
+    Máximo de faltas em dias: 3 dias
+
+Linguagem de Programação
+
+    Dias mínimos de presença: 12 dias
+    Máximo de faltas em aulas: 15 aulas
+    Máximo de faltas em dias: 3 dias
+
+Banco de Dados
+
+    Dias mínimos de presença: 8 dias
+    Máximo de faltas em aulas: 10 aulas
+    Máximo de faltas em dias: 2 dias
+
+Saúde e Segurança do Trabalho
+
+    Dias mínimos de presença: 1 dia
+    Máximo de faltas em aulas: 1 aula
+    Máximo de faltas em dias: 0 dias
+
+Gestão
+
+    Dias mínimos de presença: 3 dias
+    Máximo de faltas em aulas: 4 aulas
+    Máximo de faltas em dias: 1 dia
+	
+
+![Lista de Presença](imagens/lista_presenca.png)
+
 ## Como Usar este Repositório
 
 1. Clone este repositório para o seu ambiente local:
