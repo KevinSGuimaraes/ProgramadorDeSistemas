@@ -21,6 +21,6 @@ Este documento contém informações sobre o trabalho que será avaliado para o 
 3. **Observação Importante:**
    - Trabalhos enviados após o prazo estipulado não serão considerados para avaliação. 
 
-Certifique-se de realizar e enviar o trabalho dentro do prazo para garantir que sua submissão seja avaliada. Caso tenha dúvidas, entre em contato com o instrutor antes do prazo final.
+Certifique-se de realizar e enviar o trabalho dentro do prazo para garantir que sua submissão seja avaliada. Caso tenha dúvidas, entre em contato comigo antes do prazo final.
 
 Boa sorte!
