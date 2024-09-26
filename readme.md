@@ -9,6 +9,11 @@ Bem-vindo ao repositório do Curso de Programador de Sistemas oferecido pelo SEN
 - **Banco de Dados**
 - **Engenharia de Software**
 
+## Atividades do Beecrowd
+Realizar as atividades 
+1000 até 1043
+1049|1050|1051|1059|1060|1065|1066|1070|1146|3301 
+
 ## Estrutura dos Diretórios
 
 Cada disciplina possui um diretório próprio onde estarão disponíveis todos os materiais necessários, incluindo aulas, códigos de exemplo, exercícios e provas que serão realizados no decorrer do curso.
