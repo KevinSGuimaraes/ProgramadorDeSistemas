@@ -82,7 +82,12 @@ Gestão
     Máximo de faltas em dias: 1 dia
 	
 # Lista de Presença
-![Lista de Presença](Imagens/lista_presenca.png)
+![Lista de Presença Julho](Imagens/lista_presenca_julho.png)
+![Lista de Presença Agosto](Imagens/lista_presenca_agosto.png)
+![Lista de Presença Setembro](Imagens/lista_presenca_setembro.png)
+
+# Lista de Presença
+![Notas](Imagens/Notas.png)
 
 ## Como Usar este Repositório
 

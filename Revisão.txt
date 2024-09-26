@@ -1,0 +1,12 @@
+Saida de Dados;
+Entrada de Dados;
+Variaveis e Atribuição;
+Operações Aritiméticas;
+Operação de Desvio de Fluxo;
+	Operadores Lógicos;
+	IF e ELSE;
+	SWITCH CASE
+Estrutura de Repetição
+	WHILE;
+	DO WHILE;
+	FOR;
