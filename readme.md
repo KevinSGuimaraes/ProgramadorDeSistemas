@@ -15,7 +15,7 @@ Realizar as atividades
 
 #1000 até #1043
 
-#1049|#1050|#1051|#1059|#1060|#1065|#1066|#1070|#1146|3301 
+#1049|#1050|#1051|#1059|#1060|#1065|#1066|#1067|#1070|#1146|#3301|#1768 
 ```
 ## Estrutura dos Diretórios
 
@@ -94,7 +94,7 @@ Gestão
 ![Lista de Presença Agosto](Imagens/lista_presenca_agosto.png)
 ![Lista de Presença Setembro](Imagens/lista_presenca_setembro.png)
 
-# Lista de Presença
+# Lista de Notas
 ![Notas](Imagens/Notas.png)
 
 ## Como Usar este Repositório
