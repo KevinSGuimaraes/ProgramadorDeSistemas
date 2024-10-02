@@ -13,9 +13,8 @@ Bem-vindo ao repositório do Curso de Programador de Sistemas oferecido pelo SEN
 ```
 Realizar as atividades 
 
-#1000 até #1043
-
-#1049|#1050|#1051|#1059|#1060|#1065|#1066|#1067|#1070|#1146|#3301|#1768|#2006 
+#1000 até #1021
+#1035|#1036|#1037|#1038|#1040|#1041|#1042|#1043|#1049|#1050|#1051|#1059|#1060|#1065|#1066|#1067|#1070|#1146|#3301|#1768|#2006 
 ```
 ## Estrutura dos Diretórios
 
