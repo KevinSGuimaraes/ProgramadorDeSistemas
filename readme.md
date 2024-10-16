@@ -87,6 +87,12 @@ Gestão
     Dias mínimos de presença: 3 dias
     Máximo de faltas em aulas: 4 aulas
     Máximo de faltas em dias: 1 dia
+
+Engenharia de Software
+
+    Dias mínimos de presença: 4 dias
+    Máximo de faltas em aulas: 5 aulas
+    Máximo de faltas em dias: 0 dia
 	
 # Lista de Presença
 ![Lista de Presença Julho](Imagens/lista_presenca_julho.png)
