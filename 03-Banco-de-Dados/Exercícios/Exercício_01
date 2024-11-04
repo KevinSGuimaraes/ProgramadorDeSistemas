@@ -1,0 +1,64 @@
+Atividade: Projeto de Banco de Dados - Sistema de Gestão de Livraria
+História do Sistema:
+
+Você foi contratado para desenvolver o sistema de banco de dados para uma livraria chamada "Livros & Letras", que se tornou um ponto de referência na cidade para leitores apaixonados por livros de diversos gêneros. A livraria está em crescimento constante e agora precisa de um sistema para gerenciar seus livros, autores, clientes, vendas e os itens vendidos em cada transação.
+
+Atualmente, a Livraria "Livros & Letras" deseja automatizar a gestão dos seguintes processos:
+
+    Cadastro e Gestão de Autores: A livraria precisa armazenar informações sobre os autores de seus livros, incluindo seu nome, data de nascimento e nacionalidade.
+
+    Cadastro de Livros: A livraria precisa de um banco de dados para armazenar os livros disponíveis para venda, com informações como título, autor, preço e quantidade em estoque.
+
+    Gestão de Clientes: A livraria tem uma base crescente de clientes que compram livros regularmente. Informações sobre o cliente, como nome, e-mail, telefone e a data em que ele se cadastrou, precisam ser armazenadas.
+
+    Gestão de Vendas: Quando um cliente realiza uma compra, a livraria deve registrar a venda, incluindo dados como o cliente que fez a compra, a data da transação e o valor total da venda.
+
+    Gestão dos Itens de Vendas: Para cada venda, a livraria precisa registrar os detalhes de cada item comprado, como o livro adquirido, a quantidade comprada e o preço unitário no momento da venda.
+
+Objetivo da Atividade:
+
+Você deve criar um banco de dados relacional para a "Livros & Letras", com 5 tabelas que armazenem e organizem essas informações de forma eficiente. Além disso, será necessário estabelecer as relações entre as tabelas, utilizando chaves primárias e estrangeiras.
+Requisitos do Sistema:
+
+    Tabela de Autores
+        id_autor (INT, PK, AUTO_INCREMENT): Identificador único do autor.
+        nome (VARCHAR(100)): Nome completo do autor.
+        data_nascimento (DATE): Data de nascimento do autor.
+        nacionalidade (VARCHAR(50)): Nacionalidade do autor.
+
+    Tabela de Livros
+        id_livro (INT, PK, AUTO_INCREMENT): Identificador único do livro.
+        titulo (VARCHAR(200)): Título do livro.
+        id_autor (INT, FK - Referência Autores.id_autor): Chave estrangeira que relaciona o livro a um autor.
+        data_publicacao (DATE): Data de publicação do livro.
+        preco (DECIMAL(10, 2)): Preço do livro.
+        estoque (INT): Quantidade de exemplares disponíveis em estoque.
+
+    Tabela de Clientes
+        id_cliente (INT, PK, AUTO_INCREMENT): Identificador único do cliente.
+        nome (VARCHAR(100)): Nome completo do cliente.
+        email (VARCHAR(100)): Endereço de e-mail do cliente.
+        telefone (VARCHAR(15)): Número de telefone do cliente.
+        data_cadastro (DATE): Data em que o cliente foi cadastrado na livraria.
+
+    Tabela de Vendas
+        id_venda (INT, PK, AUTO_INCREMENT): Identificador único da venda.
+        id_cliente (INT, FK - Referência Clientes.id_cliente): Chave estrangeira que relaciona a venda ao cliente.
+        data_venda (DATE): Data em que a venda foi realizada.
+        valor_total (DECIMAL(10, 2)): Valor total da venda (soma de todos os itens vendidos).
+
+    Tabela de Itens_Venda
+        id_item (INT, PK, AUTO_INCREMENT): Identificador único do item na venda.
+        id_venda (INT, FK - Referência Vendas.id_venda): Chave estrangeira que relaciona o item à venda.
+        id_livro (INT, FK - Referência Livros.id_livro): Chave estrangeira que relaciona o item a um livro específico.
+        quantidade (INT): Quantidade de exemplares do livro comprados.
+        preco_unitario (DECIMAL(10, 2)): Preço unitário do livro no momento da venda.
+
+Passos para Realização da Atividade:
+
+    Criação das Tabelas:
+        Escreva um script SQL para criar todas as cinco tabelas mencionadas acima.
+        Certifique-se de que as tabelas estão normalizadas e com as relações corretamente definidas (chaves primárias e estrangeiras).
+
+    População das Tabelas:
+        Insira pelo menos 5 registros em cada uma das tabelas. Utilize dados fictícios (autores, livros, clientes, vendas e itens de venda).
