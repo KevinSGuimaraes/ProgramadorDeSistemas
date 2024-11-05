@@ -62,3 +62,9 @@ Passos para Realização da Atividade:
 
     População das Tabelas:
         Insira pelo menos 5 registros em cada uma das tabelas. Utilize dados fictícios (autores, livros, clientes, vendas e itens de venda).
+
+Crie pelo menos 3 consultas SQL que utilizem JOINs entre as tabelas para trazer informações úteis para a gestão da livraria. Exemplos de consultas:
+
+    Consulta 1: Listar todos os livros com o nome do autor correspondente.
+    Consulta 2: Mostrar todas as vendas realizadas por um cliente específico, incluindo os detalhes dos livros comprados.
+    Consulta 3: Calcular o valor total de vendas por livro, considerando todas as transações realizadas.
