@@ -1,0 +1,43 @@
+Ainda com base no nosso banco de dados anterior realize as seguintes consultas abaixo:
+
+Questões de SELECT com INNER JOIN
+
+    1- Liste o nome do autor e o título de cada livro, utilizando INNER JOIN entre as tabelas Autores e Livros.
+    2 - Encontre o nome do cliente e a data da venda para cada venda realizada, utilizando INNER JOIN entre Clientes e Vendas.
+    3 - Liste o nome do autor, o título do livro e a quantidade de estoque para cada livro com mais de 20 exemplares, usando INNER JOIN.
+    4 - Selecione o título do livro e o valor total da venda, listando apenas vendas com livros de valor superior a R$ 50.
+    5 - Encontre o nome do cliente e o título dos livros comprados em cada venda, utilizando INNER JOIN entre Clientes, Vendas e Itens_Venda.
+    6 - Liste o nome do autor e o preço do livro para cada livro cujo preço esteja entre R$ 40 e R$ 70.
+    7 - Selecione o nome do autor e a data de publicação de livros lançados após o ano 2000.
+    8 - Encontre o nome do cliente e o valor total das vendas que ultrapassam R$ 100.
+    9 - Liste o título do livro e a quantidade comprada em cada venda, com quantidades acima de 1 unidade.
+    10 - Encontre o nome do cliente e o título do livro para cada item vendido em que o preço unitário seja exatamente R$ 39,90.
+
+Questões de SELECT com LEFT JOIN
+
+    1 - Liste todos os autores e seus livros, incluindo autores que não possuem livros cadastrados, utilizando LEFT JOIN.
+    2 - Encontre todos os clientes e suas respectivas compras, incluindo clientes que ainda não realizaram nenhuma compra.
+    3 - Selecione todos os livros e suas quantidades vendidas, incluindo livros que não foram vendidos.
+    4 - Liste o nome de cada cliente e o total gasto em suas compras, incluindo clientes que não gastaram nada.
+    5 - Liste todos os autores e o título dos livros publicados por eles após o ano 1950, incluindo autores que não possuem livros após essa data.
+    6 - Selecione todos os livros e suas respectivas vendas, incluindo livros que nunca foram comprados.
+    7 - Encontre todos os clientes e o número de itens diferentes comprados, incluindo clientes que não compraram nada.
+    8 - Liste o nome do autor e o título dos livros com mais de 20 exemplares em estoque, incluindo autores sem livros em estoque.
+    9 - Encontre todos os clientes e o total de livros comprados, incluindo clientes sem nenhuma compra registrada.
+    10 - Selecione todos os autores e o preço médio dos livros que publicaram, incluindo autores que não possuem livros com preço registrado.
+
+Questões de SELECT com RIGHT JOIN
+
+    1 - Liste todos os livros e os autores, incluindo livros que foram registrados sem um autor associado.
+    2 - Encontre todos os itens de venda e os respectivos títulos dos livros, incluindo itens que não tenham um livro registrado.
+    3 - Selecione o título dos livros e as vendas associadas a cada um, incluindo vendas sem livro registrado.
+    4 - Encontre todas as vendas e os clientes que as realizaram, incluindo vendas sem cliente registrado.
+    5 - Liste todos os itens de venda e o valor total da venda associada, incluindo itens de vendas sem valor registrado.
+
+Questões de SELECT com FULL JOIN
+
+    1 - Liste todos os clientes e os autores com nacionalidade brasileira, incluindo autores e clientes que não estão registrados em vendas ou livros.
+    2 - Encontre todos os autores e livros, incluindo aqueles que não têm livros registrados e livros sem autores associados.
+    3 - Selecione todos os clientes e suas vendas, incluindo aqueles que ainda não realizaram uma compra e vendas sem cliente associado.
+    4 - Liste todos os livros e as vendas em que foram incluídos, incluindo livros sem vendas e vendas sem livros.
+    5 - Selecione todos os autores e o número de livros que escreveram, incluindo autores sem livros e livros sem autor associado.
